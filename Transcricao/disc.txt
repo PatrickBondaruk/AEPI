@@ -1,0 +1,22 @@
+Você irá participar de uma pesquisa. Você deve seguir os seguintes passos:
+
+
+1) Preencher o campo de identificação com o número fornecido pelo pesquisador e clicar em "iniciar".
+
+2) Para começar a escutar os áudios, você deve clicar em "próximo".
+
+3) Escutar a frase, a qual será produzida por um falante estrangeiro.
+
+4) Clicar no botão “gravar” disponível na tela e repetir em voz alta a frase que escutou. 
+
+5) Ao terminar de "gravar", apertar o botão "parar".
+
+6) Após gravar a frase, indique na escala de "1" à "9" o quão difícil foi compreender o áudio, sendo 1 'muito difícil’ de compreender e, 9, ‘muito fácil’ de compreender. 
+
+7) Após ter gravado e avaliado na escala, apertar o botão "pronto”.
+
+8) Para avançar para a próxima frase, apertar “próximo".
+
+
+
+

@@ -1,0 +1,22 @@
+Hello! Thanks for participating on this research, Here are the steps you must follow.
+
+
+1) Fill in the Participant ID field with the number supplied by the researcher and press [Start].
+
+2) Click [Next] to start listening to the audio files.
+
+3) Listen to the phrase produced by a foreign speaker.
+
+4) Click the [Record] button and repeat aloud the sentence you have just heard.
+
+5) Once you finish recording, press the [Stop] button.
+
+6) Indicate on the scale how hard was to comprehend the he audio. Use 1 for very had to understand and  9 for very easy to understand.
+
+7) Press the [Ready] button when complete.
+
+8) Hit [Next] for hearing the next audio.
+
+
+
+

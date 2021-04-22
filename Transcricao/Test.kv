@@ -1,0 +1,118 @@
+<Janela>:
+
+    FloatLayout:
+
+        RelativeLayout:
+
+
+            orientation:'vertical'
+
+
+            Button:
+                id:gravador
+                disabled:True
+                text:'Record'
+                size_hint_x:0.1
+                size_hint_y:0.2
+                pos_hint: {"x": 0.4, 'y':0.5}
+                on_release:root.gravar()
+
+            Button:
+                id:parar
+                disabled:True
+                text:'Stop'
+                size_hint_x:0.1
+                size_hint_y:0.2
+                pos_hint: {"x": 0.5, 'y':0.5}
+                on_release:root.parar()
+
+
+
+
+
+            Slider:
+                id:slido
+                disabled:True
+                size_hint_x:0.5
+                size_hint_y:0.1
+                pos_hint: {"x": 0.25, 'y':0.3}
+                step:1
+                min:1
+                max:9
+                on_touch_down:root.slide()
+
+
+
+            Label:
+                text:'Very Hard 1         2         3         4         5         6         7          8        9 Very Easy'
+
+
+
+                pos_hint: {"x": 0, 'y':-0.2}
+
+
+
+
+            BoxLayout:
+                pos_hint: {"x": 0.25, 'y':0.2}
+                size_hint_x:0.5
+                size_hint_y:0.05
+
+                Button:
+                    disabled:True
+                    id:pronto
+                    text:'Ready'
+                    on_release:root.pronto()
+
+
+                Button:
+                    id:proximo
+                    text:'Next'
+                    on_release:root.next()
+
+
+
+<Start>:
+    title:'Experiment'
+    BoxLayout:
+        orientation:'vertical'
+        Label:
+            id:texto
+            text_size: self.size
+
+        TextInput:
+            id:nome
+            text:'Participant ID'
+            pos_hint: {"x": 0.36, 'y':0.4}
+            size_hint_x:0.3
+            size_hint_y:0.08
+        Button:
+            text:'Start'
+            pos_hint: {"x": 0.36, 'y':0.4}
+            size_hint_x:0.3
+            size_hint_y:0.08
+            on_release:root.load()
+
+        Label:
+            size_hint_y:0.08
+
+<Gameover>
+    title:'Experiment'
+    BoxLayout:
+        orientation:'vertical'
+        Label:
+            id:textox
+
+            pos_hint: {"x": 0, 'y':0}
+
+        Button:
+            text:'Finish'
+            pos_hint: {"x": 0.36, 'y':0.4}
+            size_hint_x:0.3
+            size_hint_y:0.08
+            on_release:root.kill()
+
+
+
+
+
