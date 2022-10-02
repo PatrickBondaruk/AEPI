@@ -24,11 +24,11 @@ Patrick researches Programming and Psychology. Jeniffer Albuquerque and Ubiratã
 ### Como Usar / How to Use
 
 ##### Uso Básico
-1- Baixe o aplicativo desejado na seção [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download).
-2- Extraia todos os arquivos para uma pasta de sua escolha.
-3-Adicione os estímulos na pasta [Audio] em formato .wav.
-4- Atualize o Disc.txt com as instruções do experimento.
-5- Rode o arquivo executável.
+- Baixe o aplicativo desejado na seção [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download).
+- Extraia todos os arquivos para uma pasta de sua escolha.
+- Adicione os estímulos na pasta [Audio] em formato .wav.
+- Atualize o Disc.txt com as instruções do experimento.
+- Rode o arquivo executável.
 
 Descrição de cada item:
 Pasta Audio
@@ -48,12 +48,11 @@ Executável que inicia o teste. Ao ser executado,  deve mostrar a seguinte tela:
 
 
 ##### Basic Usage
-1- Download AEPI from the [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download section.
-2- Extract all files to a folder of your choice.
-3- The extracted content looks like this:
-4- Add the stimuli to the [Audio] folder as .wav files.
-5-Update the Disc.txt with the experiment instructions.
-6- Run the executable file (.exe).
+ - Download AEPI from the [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download section.
+ - Extract all files to a folder of your choice.
+ - Add the stimuli to the [Audio] folder as .wav files.
+ - Update the Disc.txt with the experiment instructions.
+ - Run the executable file (.exe).
 
 Description of each item:
 Audio folder
