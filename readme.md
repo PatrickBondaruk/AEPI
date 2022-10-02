@@ -1,10 +1,10 @@
 # AEPI
 ##### Aplicativo para Estudos em Percepção e Inteligibilidade / App for Inteligibility and Perception Studies
 
-* [O que é? / What is AEPI?](http://aepi.e-pi.co/?page_id=34)
-* [Quem fez? / Who created AEPI?](http://aepi.e-pi.co/?page_id=2)
-* [Como usar? / How to use](http://aepi.e-pi.co/?page_id=9)
-* [Baixar/Download](http://aepi.e-pi.co/?page_id=5)
+* [O que é? / What is AEPI?](### O que é? / What is AEPI?)
+* [Quem fez? / Who created AEPI?](### Como Usar / How to Use)
+* [Como usar? / How to use](##### Basic Usage)
+* [Baixar/Download](### Download)
 
 ### O que é? / What is AEPI?
 
@@ -80,7 +80,7 @@ Transcription.exe / Recording.exe
 The executable file that starts the test. It shows the following screen when started:
 
 
-#### Download
+### Download
 ##### Portuguese Versions
 
 - Transcrição
