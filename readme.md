@@ -24,7 +24,7 @@ Patrick researches Programming and Psychology. Jeniffer Albuquerque and Ubiratã
 ### Como Usar / How to Use
 
 ##### Uso Básico
-- Baixe o aplicativo desejado na seção [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download).
+- Baixe o aplicativo desejado na seção [Download](https://github.com/PatrickBondaruk/AEPI/edit/main/readme.md#download section.
 - Extraia todos os arquivos para uma pasta de sua escolha.
 - Adicione os estímulos na pasta [Audio] em formato .wav.
 - Atualize o Disc.txt com as instruções do experimento.
