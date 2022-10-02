@@ -1,3 +1,5 @@
+![alt text](https://github.com/PatrickBondaruk/AEPI/blob/main/aepi.png)
+
 # AEPI
 ##### Aplicativo para Estudos em Percepção e Inteligibilidade / App for Inteligibility and Perception Studies
 
