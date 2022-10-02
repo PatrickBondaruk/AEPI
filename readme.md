@@ -78,3 +78,24 @@ The graphic interface configuration file.  For users with programming skills.
 
 Transcription.exe / Recording.exe
 The executable file that starts the test. It shows the following screen when started:
+
+
+#### Download
+##### Portuguese Versions
+
+- Transcrição
+https://drive.google.com/file/d/1-5wVHFn6roPwgKcbHB-Fis6uSYK09sXK/view?usp=sharing
+- Gravação
+https://drive.google.com/file/d/1-HUAOXxM0yAteLbkqcpfH3ULcwvl64Kc/view?usp=sharing
+
+##### English Versions
+
+- Transcription
+https://drive.google.com/file/d/1-QBLzQyzzNUTChaJN9-Ei0yf2KxoaN8P/view?usp=sharing
+
+- Recording
+https://drive.google.com/file/d/1-QBLzQyzzNUTChaJN9-Ei0yf2KxoaN8P/view?usp=sharing
+
+
+
+
