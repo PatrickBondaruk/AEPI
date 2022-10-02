@@ -1,11 +1,6 @@
 # AEPI
 ##### Aplicativo para Estudos em Percepção e Inteligibilidade / App for Inteligibility and Perception Studies
 
-* [O que é? / What is AEPI?](### O que é? / What is AEPI?)
-* [Quem fez? / Who created AEPI?](### Como Usar / How to Use)
-* [Como usar? / How to use](##### Basic Usage)
-* [Baixar/Download](### Download)
-
 ### O que é? / What is AEPI?
 
 O AEPI (Aplicativo para Estudos de Percepção e Inteligibilidade) foi criado com o objetivo de ser uma ferramenta de uso livre, editável e licenciado sob a licença creative commons. Ele foi desenhado para auxiliar na operacionalização de estudos que envolvam tarefas de percepção, inteligibilidade e compreensibilidade.
